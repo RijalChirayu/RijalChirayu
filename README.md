@@ -8,6 +8,7 @@
 
 ### Few bits of code I wrote!
 - [Cricket-StatsGuru](https://github.com/ankman007/cricket-statsguru)
+- [Kaggle Notebooks](https://www.kaggle.com/chirayurijal/code)
 - More coming!!🌚
 
 
