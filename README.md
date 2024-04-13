@@ -1,6 +1,6 @@
 ## HelloWorld!🗺️
 
-### I'm Chirayu and I follow geometric distribution.📊
+### Looking for AGI📊
 - 🎓 Doing Bachelors in  Maths and Stats.
 - 🧐 Studying and coding ML models.
 - 🏃‍♂️ Projects are ongoing.
