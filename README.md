@@ -1,10 +1,10 @@
 ## HelloWorld!🗺️
 
 ### Looking for AGI📊
-- 🎓 Doing Bachelors in  Maths and Stats.
-- 🧐 Studying and coding ML models.
-- 🏃‍♂️ Projects are ongoing.
-- 📔 Currently Learning about Computer Vision and Unsupervised Learning.
+- 🎓 Doing Bachelors in  Maths and Stats
+- 🧐 Fighting with cheeky equations(help me🫨)
+- 🏃‍♂️ Projects are ongoing
+- 📔 Currently Learning about Computer Vision and Unsupervised Learning
 
 ### Few bits of code I wrote!
 - [Cricket-StatsGuru](https://github.com/ankman007/cricket-statsguru)
