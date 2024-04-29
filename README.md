@@ -1,6 +1,7 @@
-## HelloWorld!🗺️
+![Aquarium](https://github.com/RijalChirayu/RijalChirayu/assets/96905082/e6328b5a-f739-48a1-9862-724637f840bb)
 
-### Looking for AGI📊
+
+### Unpacking Data one at a time📊
 - 🎓 Doing Bachelors in  Maths and Stats
 - 🧐 Fighting with cheeky equations(help me🫨)
 - 🏃‍♂️ Projects are ongoing
