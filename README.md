@@ -1,3 +1,3 @@
-just a baddie with a computer💅
+just a boy with a computer💅
 
   
